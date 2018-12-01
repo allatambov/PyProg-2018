@@ -48,3 +48,108 @@
 [NotebookApp | INFO] Saving file at /10-09/sem-06-04-solutions.ipynb
 [NotebookApp | WARNING] Notebook 10-09/sem-06-04-solutions.ipynb is not trusted
 [NotebookApp | INFO] Starting buffering for 214e61ea-d3be-4c78-ab32-f8d8640600df:7e3258cb0fb64adc8a0aefbbe3153a07
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/PyProg-2018
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=8f1e6cb157c5a47a1148ad7e26348bce8e5b499ead997a45
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=8f1e6cb157c5a47a1148ad7e26348bce8e5b499ead997a45&token=8f1e6cb157c5a47a1148ad7e26348bce8e5b499ead997a45
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Copying cw-practice.ipynb to 
+[NotebookApp | INFO] Kernel started: 629bd389-ed4b-4b9c-b3e7-f4600185f916
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 629bd389-ed4b-4b9c-b3e7-f4600185f916
+[NotebookApp | INFO] Saving file at /cw-practice-Copy1.ipynb
+[NotebookApp | INFO] Saving file at /cw-practice-Copy1.ipynb
+[NotebookApp | INFO] Saving file at /cw-practice-Copy1.ipynb
+[NotebookApp | INFO] Saving file at /cw-practice-Copy1.ipynb
+[NotebookApp | INFO] Saving file at /cw-practice-Copy1.ipynb
+[NotebookApp | INFO] Saving file at /cw-practice-2.ipynb
+[NotebookApp | INFO] Starting buffering for 629bd389-ed4b-4b9c-b3e7-f4600185f916:7451bdaa4d9b49708c2b0c7c83e94685
+[NotebookApp | INFO] 302 GET / (::1) 0.72ms
+[NotebookApp | INFO] Uploading file to /exam.ipynb
+[NotebookApp | INFO] Kernel started: 029bc203-cc9c-4b0a-895c-8465f9147902
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 029bc203-cc9c-4b0a-895c-8465f9147902
+[NotebookApp | INFO] Saving file at /exam.ipynb
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: abc4f019-5698-4d87-8b0c-ddc9879b1986
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel abc4f019-5698-4d87-8b0c-ddc9879b1986
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Uploading file to /exam-S.ipynb
+[NotebookApp | WARNING] Notebook exam-S.ipynb is not trusted
+[NotebookApp | WARNING] Notebook exam-S.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: e9064a5a-5545-4aad-ba24-6e7be2480803
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e9064a5a-5545-4aad-ba24-6e7be2480803
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /exam-S.ipynb
+[NotebookApp | WARNING] Notebook exam-S.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /exam.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /exam.ipynb
+[NotebookApp | INFO] Saving file at /exam.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /pydat_hw3.ipynb
+[NotebookApp | INFO] Saving file at /pydat_hw3.ipynb
+[NotebookApp | INFO] Saving file at /pydat_hw3.ipynb
+[NotebookApp | INFO] Saving file at /pydat_hw3.ipynb
+[NotebookApp | ERROR] Uncaught exception GET /nbconvert/ipynb/pydat_hw3.ipynb?download=true (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='GET', uri='/nbconvert/ipynb/pydat_hw3.ipynb?download=true', version='HTTP/1.1', remote_ip='::1')
+    Traceback (most recent call last):
+      File "/anaconda3/lib/python3.6/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/anaconda3/lib/python3.6/site-packages/tornado/web.py", line 2949, in wrapper
+        return method(self, *args, **kwargs)
+      File "/anaconda3/lib/python3.6/site-packages/notebook/nbconvert/handlers.py", line 84, in get
+        exporter = get_exporter(format, config=self.config, log=self.log)
+      File "/anaconda3/lib/python3.6/site-packages/notebook/nbconvert/handlers.py", line 66, in get_exporter
+        Exporter = get_exporter(format)
+      File "/anaconda3/lib/python3.6/site-packages/nbconvert/exporters/base.py", line 110, in get_exporter
+        % (name, ', '.join(get_export_names())))
+    ValueError: Unknown exporter "ipynb", did you mean one of: asciidoc, custom, html, latex, markdown, notebook, pdf, python, rst, script, slides?
+[NotebookApp | ERROR] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+      "Referer": "http://localhost:8888/notebooks/pydat_hw3.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Cookie": "_xsrf=2|7b1a07e8|cb792c7cdd42de32c07cece963e45952|1541976175; username-localhost-8890=\"2|1:0|10:1542565442|23:username-localhost-8890|44:ZTIxNzZjMGY1ZmM1NDgyOWIwNDZlZTM3Zjc5ZTY0MWY=|fc7679cc6278add92030c95b93832318e2c9da48f47b62cd2fd196ac05b61622\"; username-localhost-8891=\"2|1:0|10:1542566009|23:username-localhost-8891|44:YmFmYzBhZGVjZmJkNGY4ODg0ZGYxZmJkMTFlNDFjMTY=|ddac627a3db058f225427220ff075a6d2d2ee23619733d1ab75777bdd8448115\"; username-localhost-8892=\"2|1:0|10:1542567704|23:username-localhost-8892|44:ZTk1MjRmZTRlZGFlNGQzMjk2YzllODY4MTJkMmVjNjM=|9ccd4d6dd5e0581c831ccaff05636b61c447f0607429f66815e167d9cd0d08e3\"; username-localhost-8934=\"2|1:0|10:1542569412|23:username-localhost-8934|44:ZDQ0YzdjN2IzMmM1NDYwYTk3ZWIxM2EyNmFmMjgxMTQ=|e9c83f35f6eadd09b0e07c67bd3b7860e3fc83553d0199cbcb007b839246a7d0\"; username-localhost-8959=\"2|1:0|10:1542570040|23:username-localhost-8959|44:ZWU4YTUzYjhjZjM0NGZlNWJlM2I1NWNlYTIxNmI4N2U=|899b491aca8dc80c4e2cb4e40de0b43561d20dc34c07c48dfc0f4e4cb6ef74a6\"; username-localhost-8980=\"2|1:0|10:1542571320|23:username-localhost-8980|44:MWZiZGQzYjk5MjdkNDcyNmFmZGY3NDljZTE1MWQyOWI=|1bbf54bc86501aada7dd93aea523ed03ba7d06af01960b5cc117cb9021a0e5d6\"; username-localhost-8889=\"2|1:0|10:1542622160|23:username-localhost-8889|44:MzVjYTkyYjQ2ODc5NGI3ZmFmNmRmMjg5NGM5MzdjZTM=|444f6859d734a3472b0ca4d9d999ce94f2a73de143a51a9a79c805434c46495b\"; username-localhost-8888=\"2|1:0|10:1542959046|23:username-localhost-8888|44:NTY0OTJhYTQyZTM4NDAyN2FkNTJlYzJjMGUzZWNkNWU=|f5c26b992947fe0edb804b88dc974b7c585d09842456d356da34bcf5a85ed646\""
+    }
+[NotebookApp | ERROR] 500 GET /nbconvert/ipynb/pydat_hw3.ipynb?download=true (::1) 133.11ms referer=http://localhost:8888/notebooks/pydat_hw3.ipynb
+[NotebookApp | WARNING] WebSocket ping timeout after 7211348 ms.
+[NotebookApp | INFO] Starting buffering for 029bc203-cc9c-4b0a-895c-8465f9147902:a0398ec9762c48758dc824178e965d9c
+[NotebookApp | INFO] Starting buffering for e9064a5a-5545-4aad-ba24-6e7be2480803:4809c0216d71404c8eea3d350aed2e57
+[NotebookApp | INFO] Starting buffering for abc4f019-5698-4d87-8b0c-ddc9879b1986:6b2f1af3bdb741598cacc2c97a88dadd
